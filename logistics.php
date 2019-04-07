@@ -1,7 +1,7 @@
 <?php
 
 /*
-Expected Format
+Update Expected Format
 [
    {
         "item_no,qty": "A001",
